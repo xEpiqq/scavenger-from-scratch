@@ -1,0 +1,211 @@
+@font-face {
+  font-family: 'Cocogoose Pro';
+  src: url('./fonts/CocogoosePro-LightItalic.woff2') format('woff2'),
+      url('./fonts/CocogoosePro-LightItalic.woff') format('woff');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Cocogoose Pro';
+  src: url('./fonts/CocogoosePro-Italic.woff2') format('woff2'),
+      url('./fonts/CocogoosePro-Italic.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Cocogoose';
+  src: url('./fonts/Cocogoose-Light.woff2') format('woff2'),
+      url('./fonts/Cocogoose-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Cocogoose Pro';
+  src: url('./fonts/CocogoosePro-Thin.woff2') format('woff2'),
+      url('./fonts/CocogoosePro-Thin.woff') format('woff');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Cocogoose Pro';
+  src: url('./fonts/CocogoosePro-UltraLightItalic.woff2') format('woff2'),
+      url('./fonts/CocogoosePro-UltraLightItalic.woff') format('woff');
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'COCOGOOSE';
+  src: url('./fonts/COCOGOOSE-DemiBold.woff2') format('woff2'),
+      url('./fonts/COCOGOOSE-DemiBold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Cocogoose Pro SemiLight';
+  src: url('./fonts/CocogoosePro-SemiLightItalic.woff2') format('woff2'),
+      url('./fonts/CocogoosePro-SemiLightItalic.woff') format('woff');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Cocogoose Pro';
+  src: url('./fonts/CocogoosePro-ThinItalic.woff2') format('woff2'),
+      url('./fonts/CocogoosePro-ThinItalic.woff') format('woff');
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Cocogoose';
+  src: url('./fonts/Cocogoose.woff2') format('woff2'),
+      url('./fonts/Cocogoose.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'COCOGOOSE';
+  src: url('./fonts/COCOGOOSE-UltraLight.woff2') format('woff2'),
+      url('./fonts/COCOGOOSE-UltraLight.woff') format('woff');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'CocoSharp Trial';
+  src: url('./fonts/CocoSharpTrial-BoldItalic.woff2') format('woff2'),
+      url('./fonts/CocoSharpTrial-BoldItalic.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'CocoSharp Trial';
+  src: url('./fonts/CocoSharpTrial-ExtraLightItalic.woff2') format('woff2'),
+      url('./fonts/CocoSharpTrial-ExtraLightItalic.woff') format('woff');
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'CocoSharp Trial';
+  src: url('./fonts/CocoSharpTrial-Extrabold.woff2') format('woff2'),
+      url('./fonts/CocoSharpTrial-Extrabold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'CocoSharp Trial';
+  src: url('./fonts/CocoSharpTrial-ExtraboldItalic.woff2') format('woff2'),
+      url('./fonts/CocoSharpTrial-ExtraboldItalic.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'CocoSharp Trial';
+  src: url('./fonts/CocoSharpTrial-HeavyItalic.woff2') format('woff2'),
+      url('./fonts/CocoSharpTrial-HeavyItalic.woff') format('woff');
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'CocoSharp Trial';
+  src: url('./fonts/CocoSharpTrial-ExtraLight.woff2') format('woff2'),
+      url('./fonts/CocoSharpTrial-ExtraLight.woff') format('woff');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'CocoSharp Trial';
+  src: url('./fonts/CocoSharpTrial-Bold.woff2') format('woff2'),
+      url('./fonts/CocoSharpTrial-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'CocoSharp Trial';
+  src: url('./fonts/CocoSharpTrial-Heavy.woff2') format('woff2'),
+      url('./fonts/CocoSharpTrial-Heavy.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'CocoSharp Trial';
+  src: url('./fonts/CocoSharpTrial-Light.woff2') format('woff2'),
+      url('./fonts/CocoSharpTrial-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'CocoSharp Trial';
+  src: url('./fonts/CocoSharpTrial-LightItalic.woff2') format('woff2'),
+      url('./fonts/CocoSharpTrial-LightItalic.woff') format('woff');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'CocoSharp Trial';
+  src: url('./fonts/CocoSharpTrial-Italic.woff2') format('woff2'),
+      url('./fonts/CocoSharpTrial-Italic.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'CocoSharp Trial';
+  src: url('./fonts/CocoSharpTrial-Regular.woff2') format('woff2'),
+      url('./fonts/CocoSharpTrial-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

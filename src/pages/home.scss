@@ -1,0 +1,129 @@
+  .home {
+    background-color: rgb(24, 24, 24);
+    width: 100%;
+    height: 100vh;
+    flex-direction: column;
+  }
+
+.hero {
+  display: flex;
+  flex-direction: row;
+  height: 90vh;
+  margin-left: 7%;
+  margin-right: 0%;
+  width: 93%;
+  .hero_left {
+    height: 100%;
+    width: 50%;
+    .hero_text {
+      padding-left: 8%;
+      display: flex;
+      flex-direction: column;
+      gap: 2rem;
+      h1 {
+        padding-top: 15%;
+        font-family: 'CocoSharp Trial';
+        font-size: 4.5rem;
+        color: white;
+        line-height: 100%;
+        letter-spacing: 0px;
+        font-weight: 900;
+        font-style: normal;
+        font-display: swap;
+        span {
+          color:rgb(152, 231, 190);
+
+        }
+      }
+      .free_trial_two {
+        width: 40%;
+        height: 3.5rem;
+        border: none;
+        background-color: rgb(101, 204, 144);
+        color: white;
+        font-family: 'CocoSharp Trial';
+        font-weight: 700;
+        font-size: 1.25rem;
+        border-radius: 5rem;
+      }
+      p {
+          font-family: 'CocoSharp Trial';
+          font-size: 1.4rem;
+          color: rgb(147, 147, 147);
+          line-height: 100%;
+          letter-spacing: 0px;
+          font-weight: 900;
+          font-style: normal;
+          font-display: swap;
+          span {
+            color:rgb(114, 114, 114);
+          }
+      }
+      .hero_text_bottom {
+        display: flex;
+        flex-direction: row;
+      }
+      img {
+        width: 50%;
+        margin-top: -16%;
+        margin-left: 3%;
+      }
+    }
+  }
+  .hero_right {
+    height: 100%;
+    width: 50%;
+    img {
+      padding-top: 7.5%;
+      width: 100%;
+    }
+  }
+  
+}
+
+.aesthetic_div {
+  transform: skewY(20deg);
+  width: 100%;
+  height: 28vh;
+  background: white;
+}
+
+.transition_div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 97.5%;
+  right: 12.5%;
+  background-color: #98E7BE;
+  width: 75%;
+  height: 15vh;
+  border-radius: 20px;
+  color: white;
+  font-family: 'CocoSharp Trial';
+  font-weight: 700;
+  font-size: 3rem;
+
+  box-shadow: 5px 5px 0px 0px #b7f1d3, 10px 10px 0px 0px #cdf2df, 15px 15px 0px 0px #dbf4e7, 20px 20px 15px 5px rgba(0,0,0,0);
+
+  .transition_div_left {
+
+  }
+  .transition_div_right {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+    border-radius: 30px;
+    background-color: #afffd5;
+    width: 30%;
+    height: 80%;
+    margin-left: 1%;
+  }
+
+  .transition_div_right p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 900;
+    color: rgb(153, 153, 153)
+  }
+}
